@@ -1,0 +1,44 @@
+body {
+    background-color: #F9FAF0;
+}
+
+.grid {
+    margin-bottom: 2.8em;
+}
+
+h2 {
+    text-justify: center;
+    text-align: center;
+    padding: 15px;
+
+}
+
+#reset {
+    margin-bottom: 15px;
+}
+
+
+td {
+    border: solid 1px #F9FAF0;
+    width:15em;
+    padding:1em;
+    font-weight:normal;
+    height: 8em;
+    background:  #BBC893;
+    text-align: center;
+    text-justify: center;
+}
+
+.cell {
+    color: #F9FAF0;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 1.5em;
+    
+    
+}
+
+.jokeContent {
+    color: #2f3e46;
+    font-size: 0.5em;
+}
